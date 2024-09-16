@@ -16,6 +16,8 @@ class ClassBasedComponent extends Component {
   //     };
   //   }
 
+  //Comment added to test whether git push is wprking correctly
+
   handleClick = () => {
     console.log("button clicked");
     // this is not recommended
